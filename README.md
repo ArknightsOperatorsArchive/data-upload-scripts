@@ -31,3 +31,7 @@ This will intiailize the project with projectId `main` with artworks under the "
 ### LICENSE
 
 This repo is licensed under `MIT` see (./LICENSE)[LICENSE] for more details
+
+### DISCLAIMER
+
+Arknights is owned by HyperGryph, Yostar Games and Longcheng Ltd. This project has no association with the copyright holders and is used for fanart purposes.
