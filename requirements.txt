@@ -1,0 +1,2 @@
+firebase_admin==5.0.2
+firebase==3.0.1
